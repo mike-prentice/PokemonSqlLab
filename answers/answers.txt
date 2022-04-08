@@ -1,0 +1,12 @@
+SELECT * FROM types = 36 types.
+
+SELECT * FROM pokemon WHERE Id = 45 (Eevee is Pokemon is Id 45.)
+
+There are 656 total Pokemon.(SELECT * FROM Pokemons -c)
+
+There are 18 primary types
+
+There are 316 Pokemon with secondary types. (SELECT * FROM pokemons WHERE secondary_type != 0;)
+
+******PART 2*********
+
